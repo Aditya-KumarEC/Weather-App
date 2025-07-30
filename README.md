@@ -64,19 +64,25 @@ You need a free API key from OpenWeatherMap:
 📦 How to Run (Windows CMD or PowerShell)
 
 ▶️ Run Console Version
+
 `javac -cp .;json-20210307.jar WeatherApp.java`
 `java -cp .;json-20210307.jar WeatherApp`
 
 🖥️ Run GUI Version
+
 `javac -cp .;json-20210307.jar WeatherAppGUI.java`
 `java -cp .;json-20210307.jar WeatherAppGUI`
 
-## 👤 Author
+## 📌 Connect with Me
 
-**Aditya Kumar**  
-🔗 GitHub: [@Aditya-KumarEC](https://github.com/Aditya-KumarEC)
+👤 **Aditya Kumar**  
+🔗 [LinkedIn](https://www.linkedin.com/in/aditya-kumar-yourprofile)  
+📧 [Email](mailto:your.email@example.com)
 
-## 📃 License
-Free to use for learning and academic purposes.
+---
+
+## 📄 License
+
+This repository is open-sourced under the [MIT License](./LICENSE)
 
 
