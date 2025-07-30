@@ -64,12 +64,12 @@ You need a free API key from OpenWeatherMap:
 📦 How to Run (Windows CMD or PowerShell)
 
 ▶️ Run Console Version
-javac -cp .;json-20210307.jar WeatherApp.java
-java -cp .;json-20210307.jar WeatherApp
+`javac -cp .;json-20210307.jar WeatherApp.java`
+`java -cp .;json-20210307.jar WeatherApp`
 
 🖥️ Run GUI Version
-javac -cp .;json-20210307.jar WeatherAppGUI.java
-java -cp .;json-20210307.jar WeatherAppGUI
+`javac -cp .;json-20210307.jar WeatherAppGUI.java`
+`java -cp .;json-20210307.jar WeatherAppGUI`
 
 ## 👤 Author
 
